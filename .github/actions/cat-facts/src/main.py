@@ -1,4 +1,4 @@
-mport requests
+import requests
 import random
 import sys
 
